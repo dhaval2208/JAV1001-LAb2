@@ -4,11 +4,10 @@
 // JAV-1001 - 50733 - App Development for Android - 202205 - 001s
 
 
-import java.util.IntSummaryStatistics;
 import java.util.Scanner;
 
-public class jav1001LAB2 {
-    public static void main(String[] args) {
+public class JAVA1001{
+        public static void main(String[] args) {
         Scanner option = new Scanner(System.in);
 
 //asking option from user for opration
